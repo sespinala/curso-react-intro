@@ -45,7 +45,7 @@ function TodoProvider({ children }) {
       setSearchValue,
       searchedTodos,
       completeTodo,
-      deleteTodo,
+      deleteTodo
   }}>
     {children}
   </TodoContext.Provider>;
