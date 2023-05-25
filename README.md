@@ -1,8 +1,6 @@
 # TODO APP
 
-¡Hola, Platzinauta!
-
-This is an React app for creating TODOS.
+This is an React app for creating TODOS with basic concepts.
 
 Live demo: https://sespinala.github.io/curso-react-intro/
 
