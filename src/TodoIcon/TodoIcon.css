@@ -12,13 +12,15 @@
 
 .Icon-container-check {
   position: absolute;
-  left: 12px;
+  left: 25px;
+  cursor: pointer;
 }
 
 .Icon-container-delete {
   position: absolute;
-  top: -24px;
+  top: -13px;
   right: 0;
+  cursor: pointer;
 }
 
 .Icon-svg {
